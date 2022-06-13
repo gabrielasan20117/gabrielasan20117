@@ -6,18 +6,22 @@
 <details><summary>Front-end</summary>
 
 <p>
+   
 ```ruby
    puts "CSS"
 ```
+
 </p>
 
 </details>
 <details><summary>Back-end</summary>
 
 <p>
+   
 ```ruby
    puts "Hello World"
 ```
+   
 </p>
 
 </details>
