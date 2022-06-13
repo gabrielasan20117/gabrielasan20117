@@ -4,26 +4,16 @@
 - Skills:
 
 <details><summary>Front-end</summary>
-
-<p>
+- CSS
+- JAVASCRIPT
+- Bootstrap
    
-```ruby
-   puts "CSS"
-```
-
-</p>
-
 </details>
 <details><summary>Back-end</summary>
-
-<p>
-   
-```ruby
-   puts "Hello World"
-```
-   
-</p>
-
+- Python
+- C++
+- Php
+- Java
 </details>
 <!--
 **gabrielasan20117/gabrielasan20117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
