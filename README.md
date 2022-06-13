@@ -3,16 +3,21 @@
 - 🔭 I’m currently working on study new tecnologies
 - Skills:
 
-<details><summary>CLICK ME</summary>
+<details><summary>Front-end</summary>
 
 <p>
+```ruby
+   puts "CSS"
+```
+</p>
 
-#### We can hide anything, even code!
+</details>
+<details><summary>Back-end</summary>
 
+<p>
 ```ruby
    puts "Hello World"
 ```
-
 </p>
 
 </details>
