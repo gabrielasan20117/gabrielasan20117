@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--
 - 🔭 I’m currently working on study new tecnologies
 - Skills:
 
@@ -17,7 +17,7 @@
 - MySQL
 - Oracle SQL
 </details>
-<!--
+
 **gabrielasan20117/gabrielasan20117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
