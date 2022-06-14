@@ -1,6 +1,16 @@
-### Hi there 👋
-<!--
+### Hi i´m Gabriela, 
+
+- I studied computer system enginer.   
 - 🔭 I’m currently working on study new tecnologies
+- I´m 
+
+
+| Front | End |
+| ------------- | ------------- |
+| Contenido de la celda  | CSS |
+| Contenido de la celda  | HTML |
+<!--
+
 - Skills:
 
 <details><summary>Front-end</summary>
