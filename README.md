@@ -1,5 +1,5 @@
 ### Hi i´m Gabriela, 
-
+<!--
 - I studied computer system enginer.   
 - 🔭 I’m currently working on study new tecnologies
 - I´m 
