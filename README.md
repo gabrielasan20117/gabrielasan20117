@@ -4,14 +4,22 @@
 - 🔭 I’m currently working on study new tecnologies
 - I´m 
 
+- Skills:
 
 | Front | End |
 | ------------- | ------------- |
-| Contenido de la celda  | CSS |
+| !(/gabrielasan20117/css.jpg)  | CSS |
 | Contenido de la celda  | HTML |
+| Contenido de la celda  | Javascript |
+
+| Back | End |
+| ------------- | ------------- |
+| !(/gabrielasan20117/css.jpg)  | Java |
+| Contenido de la celda  | C++ |
+| Contenido de la celda  | Python |
 <!--
 
-- Skills:
+
 
 <details><summary>Front-end</summary>
 - CSS
