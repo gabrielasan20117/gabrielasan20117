@@ -15,8 +15,8 @@
 | Back | End |
 | ------------- | ------------- |
 | ![Images](/images/java.jpg)  | Java |
-| ![Images](/images/css.jpg)  | C++ |
-| ![Images](/images/css.jpg)  | Python |
+| ![Images](/images/c.jpg)  | C++ |
+| ![Images](/images/python.jpg)  | Python |
 <!--
 
 
