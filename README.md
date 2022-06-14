@@ -8,15 +8,15 @@
 
 | Front | End |
 | ------------- | ------------- |
-| !(/gabrielasan20117/css.jpg)  | CSS |
-| Contenido de la celda  | HTML |
-| Contenido de la celda  | Javascript |
+| ![Images](/images/css.jpg)  | CSS |
+| ![Images](/images/html.png)  | HTML |
+| ![Images](/images/js.png)  | Javascript |
 
 | Back | End |
 | ------------- | ------------- |
-| !(/gabrielasan20117/css.jpg)  | Java |
-| Contenido de la celda  | C++ |
-| Contenido de la celda  | Python |
+| ![Images](/images/java.jpg)  | Java |
+| ![Images](/images/css.jpg)  | C++ |
+| ![Images](/images/css.jpg)  | Python |
 <!--
 
 
