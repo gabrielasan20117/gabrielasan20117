@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriela Sánchez
 ========================================================================================================================================
 
-System Computer Engineer
+Computer System Engineer
 ------------------------
 
 I´ve 2 years working how developer of software in different companies. I love work in backend and frontend.
