@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriela Sanchez
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriela Sánchez
 ========================================================================================================================================
 
 System Computer Engineer
@@ -7,9 +7,9 @@ System Computer Engineer
 I´ve 2 years working how developer of software in different companies. I love work in backend and frontend.
 
 * 🌍  I'm based in Mexico
-* ✉️  You can contact me at [ing.gabrielasan@gmail.com](mailto:ing.gabrielasan@gmail.com)
+* ✉️  You can contact me at [gabrielasan.dev@outlook.com](mailto:gabrielasan.dev@outlook.com)
 * 🧠  I'm learning JavaScript & Angular
-* ⚡  I love photography
+* ⚡  I love programming and photography
 
 ### Skills
 
